@@ -1,4 +1,4 @@
-#  Hotel Website
+#  Industry Website
 
 Responsive Industry Website using html css & javascript
 
